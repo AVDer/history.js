@@ -1,0 +1,716 @@
+[
+    {
+        "nameLatin": "Askold and Dir",
+        "nameOriginal": "Аскольд и Дир",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 842,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 882,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Oleg of Novgorodr",
+        "nameOriginal": "Олег Вещий",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 882,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 912,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Igor I",
+        "nameOriginal": "Игорь Рюрикович",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 913,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 945,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Olga of Kiev",
+        "nameOriginal": "Ольга Мудрая (Ольга Святая)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 945,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 962,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Sviatoslav I",
+        "nameOriginal": "Святослав Игоревич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 945,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 972,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Yaropolk I",
+        "nameOriginal": "Ярополк Святославич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 972,
+            "m": 3,
+            "d": ""
+        },
+        "end": {
+            "y": 980,
+            "m": 6,
+            "d": 11
+        }
+    },
+    {
+        "nameLatin": "Vladimir I",
+        "nameOriginal": "Владимир Святославич (Владимир Великий)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 980,
+            "m": 6,
+            "d": 11
+        },
+        "end": {
+            "y": 1015,
+            "m": 7,
+            "d": 15
+        }
+    },
+    {
+        "nameLatin": "Sviatopolk I",
+        "nameOriginal": "Святополк Владимирович (Святополк Окаянный)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1015,
+            "m": 7,
+            "d": 15
+        },
+        "end": {
+            "y": 1016,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Yaroslav I",
+        "nameOriginal": "Ярослав Владимирович (Ярослав Мудрый)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1016,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 1018,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Sviatopolk I",
+        "nameOriginal": "Святополк Владимирович (Святополк Окаянный)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1018,
+            "m": 8,
+            "d": 14
+        },
+        "end": {
+            "y": 1019,
+            "m": 7,
+            "d": 27
+        }
+    },
+    {
+        "nameLatin": "Yaroslav I",
+        "nameOriginal": "Ярослав Владимирович (Ярослав Мудрый)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1019,
+            "m": 7,
+            "d": 27
+        },
+        "end": {
+            "y": 1054,
+            "m": 2,
+            "d": 20
+        }
+    },
+    {
+        "nameLatin": "Iziaslav I",
+        "nameOriginal": "Изяслав Ярославич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1054,
+            "m": 2,
+            "d": 20
+        },
+        "end": {
+            "y": 1068,
+            "m": 9,
+            "d": 15
+        }
+    },
+    {
+        "nameLatin": "Vseslav Briachislavich",
+        "nameOriginal": "Всеслав Брячиславич (Всеслав Чародей)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1068,
+            "m": 9,
+            "d": 15
+        },
+        "end": {
+            "y": 1069,
+            "m": 4,
+            "d": 29
+        }
+    },
+    {
+        "nameLatin": "Iziaslav I",
+        "nameOriginal": "Изяслав Ярославич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1069,
+            "m": 5,
+            "d": 2
+        },
+        "end": {
+            "y": 1073,
+            "m": 3,
+            "d": 22
+        }
+    },
+    {
+        "nameLatin": "Sviatoslav II",
+        "nameOriginal": "Святослав Ярославич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1073,
+            "m": 3,
+            "d": 22
+        },
+        "end": {
+            "y": 1076,
+            "m": 12,
+            "d": 27
+        }
+    },
+    {
+        "nameLatin": "Vsevolod I",
+        "nameOriginal": "Всеволод Ярославич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1077,
+            "m": 1,
+            "d": 1
+        },
+        "end": {
+            "y": 1077,
+            "m": 7,
+            "d": 15
+        }
+    },
+    {
+        "nameLatin": "Iziaslav I",
+        "nameOriginal": "Изяслав Ярославич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1077,
+            "m": 7,
+            "d": 15
+        },
+        "end": {
+            "y": 1078,
+            "m": 10,
+            "d": 3
+        }
+    },
+    {
+        "nameLatin": "Vsevolod I",
+        "nameOriginal": "Всеволод Ярославич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1078,
+            "m": 10,
+            "d": 3
+        },
+        "end": {
+            "y": 1093,
+            "m": 4,
+            "d": 13
+        }
+    },
+    {
+        "nameLatin": "Sviatopolk II",
+        "nameOriginal": "Святополк Изяславич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1093,
+            "m": 4,
+            "d": 24
+        },
+        "end": {
+            "y": 1113,
+            "m": 4,
+            "d": 16
+        }
+    },
+    {
+        "nameLatin": "Vladimir II",
+        "nameOriginal": "Владимир Всеволодович (Мономах)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1113,
+            "m": 4,
+            "d": 20
+        },
+        "end": {
+            "y": 1125,
+            "m": 5,
+            "d": 19
+        }
+    },
+    {
+        "nameLatin": "Mstislav I",
+        "nameOriginal": "Мстислав Володимирович (Мстислав Великий)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1125,
+            "m": 5,
+            "d": 20
+        },
+        "end": {
+            "y": 1132,
+            "m": 4,
+            "d": 15
+        }
+    },
+    {
+        "nameLatin": "Yaropolk II",
+        "nameOriginal": "Ярополк Владимирович",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1132,
+            "m": 4,
+            "d": 17
+        },
+        "end": {
+            "y": 1139,
+            "m": 2,
+            "d": 18
+        }
+    },
+    {
+        "nameLatin": "Viacheslav I",
+        "nameOriginal": "Вячеслав Владимирович",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1139,
+            "m": 2,
+            "d": 22
+        },
+        "end": {
+            "y": 1139,
+            "m": 3,
+            "d": 4
+        }
+    },
+    {
+        "nameLatin": "Vsevolod II",
+        "nameOriginal": "Всеволод Ольгович",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1139,
+            "m": 3,
+            "d": 5
+        },
+        "end": {
+            "y": 1146,
+            "m": 7,
+            "d": 30
+        }
+    },
+    {
+        "nameLatin": "Igor II",
+        "nameOriginal": "Игорь Ольгович",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1146,
+            "m": 8,
+            "d": 1
+        },
+        "end": {
+            "y": 1146,
+            "m": 8,
+            "d": 13
+        }
+    },
+    {
+        "nameLatin": "Iziaslav II",
+        "nameOriginal": "Изяслав Мстиславич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1146,
+            "m": 8,
+            "d": 13
+        },
+        "end": {
+            "y": 1149,
+            "m": 8,
+            "d": 23
+        }
+    },
+    {
+        "nameLatin": "Yuri I",
+        "nameOriginal": "Юрий Владимирович (Юрий Долгорукий)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1149,
+            "m": 8,
+            "d": 28
+        },
+        "end": {
+            "y": 1150,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Viacheslav I",
+        "nameOriginal": "Вячеслав Владимирович",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1150,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 1150,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Iziaslav II",
+        "nameOriginal": "Изяслав Мстиславич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1150,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 1150,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Yuri I",
+        "nameOriginal": "Юрий Владимирович (Юрий Долгорукий)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1150,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 1151,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Iziaslav II",
+        "nameOriginal": "Изяслав Мстиславич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1151,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 1154,
+            "m": 11,
+            "d": 13
+        }
+    },
+    {
+        "nameLatin": "Viacheslav I",
+        "nameOriginal": "Вячеслав Владимирович",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1151,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 1154,
+            "m": 2,
+            "d": 6
+        }
+    },
+    {
+        "nameLatin": "Rostislav I",
+        "nameOriginal": "Ростислав Мстиславич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1154,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 1155,
+            "m": 1,
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Iziaslav III",
+        "nameOriginal": "Изяслав Давидович",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1155,
+            "m": 1,
+            "d": ""
+        },
+        "end": {
+            "y": 1155,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Yuri I",
+        "nameOriginal": "Юрий Владимирович (Юрий Долгорукий)",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1155,
+            "m": 3,
+            "d": 20
+        },
+        "end": {
+            "y": 1157,
+            "m": 5,
+            "d": 15
+        }
+    },
+    {
+        "nameLatin": "Iziaslav III",
+        "nameOriginal": "Изяслав Давидович",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1157,
+            "m": 5,
+            "d": 19
+        },
+        "end": {
+            "y": 1158,
+            "m": 12,
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Mstislav II",
+        "nameOriginal": "Мстислав Изяславич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1158,
+            "m": 12,
+            "d": 22
+        },
+        "end": {
+            "y": 1159,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Rostislav I",
+        "nameOriginal": "Ростислав Мстиславич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1159,
+            "m": 4,
+            "d": 12
+        },
+        "end": {
+            "y": 1161,
+            "m": 2,
+            "d": 8
+        }
+    },
+    {
+        "nameLatin": "Iziaslav III",
+        "nameOriginal": "Изяслав Давидович",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1161,
+            "m": 2,
+            "d": 12
+        },
+        "end": {
+            "y": 1161,
+            "m": 3,
+            "d": 6
+        }
+    },
+    {
+        "nameLatin": "Rostislav I",
+        "nameOriginal": "Ростислав Мстиславич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1161,
+            "m": 3,
+            "d": ""
+        },
+        "end": {
+            "y": 1167,
+            "m": 3,
+            "d": 14
+        }
+    },
+    {
+        "nameLatin": "Vladimir III",
+        "nameOriginal": "Владимир Мстиславич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1167,
+            "m": "",
+            "d": ""
+        },
+        "end": {
+            "y": 1167,
+            "m": "",
+            "d": ""
+        }
+    },
+    {
+        "nameLatin": "Mstislav II",
+        "nameOriginal": "Мстислав Изяславич",
+        "land": [
+            "Kievan Rus"
+        ],
+        "start": {
+            "y": 1167,
+            "m": 5,
+            "d": 19
+        },
+        "end": {
+            "y": 1169,
+            "m": 3,
+            "d": 12
+        }
+    }
+]
