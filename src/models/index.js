@@ -1,7 +1,10 @@
 const Leader = require('./leader');
+const User = require('./user');
+
 
 const models = {
-    Leader
+    Leader,
+    User
 };
 
 module.exports = models;
