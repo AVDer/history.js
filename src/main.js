@@ -2,6 +2,8 @@ require('dotenv').config();
 const db = require('./db');
 const models = require('./models/index')
 
+const helmet = require('helmet');
+const cors = require('cors');
 const express = require('express');
 const { ApolloServer, gql } = require('apollo-server-express');
 
@@ -18,6 +20,8 @@ const typeDefs = require('./schema');
 const resolvers = require('./resolvers/index');
 
 const app = express();
+app.use(helmet());
+app.use(cors());
 
 db.connect(DB_HOST);
 // Apollo Server setup

@@ -26,6 +26,7 @@ type Query {
 type Mutation {
   newLeader(name: String!): Leader,
   signUp(username: String!, email: String!, password: String!): String!,
-  signIn(username: String, email: String, password: String!): String!
+  signIn(username: String, email: String, password: String!): String!,
+  deleteUser(username: String!): String!
 }
 `;
