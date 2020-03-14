@@ -3,8 +3,6 @@ const jwt = require('jsonwebtoken');
 const { AuthenticationError, ForbiddenError } = require('apollo-server-express');
 require('dotenv').config();
 
-var JWT_SECRET = 'Secret56';
-
 module.exports = {
 
     newLeader: async (parent, args, { models }) => {
@@ -28,7 +26,7 @@ module.exports = {
             });
 
             // create and return the json web token
-            return jwt.sign({ id: user._id }, JWT_SECRET, {expiresIn: '1m'});
+            return jwt.sign({ id: user._id }, process.env.JWT_SECRET, {expiresIn: '1m'});
         } catch (err) {
             console.log(err);
             // if there's a problem creating the account, throw an error
@@ -56,7 +54,7 @@ module.exports = {
         }
 
         // create and return the json web token
-        return jwt.sign({ id: user._id }, JWT_SECRET);
+        return jwt.sign({ id: user._id }, process.env.JWT_SECRET);
     },
 
     deleteUser: async (parent, {username}, {models}) => {

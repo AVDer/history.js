@@ -10,9 +10,6 @@ const { ApolloServer, gql } = require('apollo-server-express');
 
 // Run the server on a port specified in our .env file or port 4000
 const port = process.env.PORT || 4000;
-// Store the DB_HOST value as a variable
-//const DB_HOST = process.env.DB_HOST;
-const DB_HOST = "mongodb://localhost:27017";
 
 const typeDefs = require('./schema');
 
@@ -23,7 +20,7 @@ const app = express();
 app.use(helmet());
 app.use(cors());
 
-db.connect(DB_HOST);
+db.connect(process.env.DB_HOST);
 // Apollo Server setup
 const server = new ApolloServer({
   typeDefs, resolvers, context: () => {
