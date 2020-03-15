@@ -2,8 +2,9 @@
   "name": "history.js",
   "version": "1.0.0",
   "description": "Historical chart view",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
+    "start": "node src/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -19,5 +20,8 @@
     "helmet": "^3.21.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.3"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
