@@ -1,0 +1,17 @@
+[Unit]
+Description=History.js ngrok
+After=history.back
+
+[Service]
+Type=simple
+User=root
+ExecStart=ngrok http 4000 --log
+Restart=always
+RestartSec=10
+
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=historyjs
+
+[Install]
+WantedBy=multi-user.target

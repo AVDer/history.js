@@ -1,0 +1,19 @@
+[Unit]
+Description=History.js backend
+After=network.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=history_back.sh
+Restart=always
+RestartSec=10
+
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=historyjs
+
+Environment=DB_HOST=
+
+[Install]
+WantedBy=multi-user.target
