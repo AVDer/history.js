@@ -15,6 +15,16 @@ const leaderSchema = new mongoose.Schema(
         land: {
             type: [String],
             required: false
+        },
+        start: {
+            y: Number,
+            m: Number,
+            d: Number
+        },
+        end: {
+            y: Number,
+            m: Number,
+            d: Number
         }
     },
     {

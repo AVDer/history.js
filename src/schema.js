@@ -2,12 +2,18 @@ const { gql } = require('apollo-server-express');
 
 module.exports = gql`
 
+type Date {
+  y: Int!,
+  m: Int,
+  d: Int
+},
+
 type Leader {
   nameLatin: String!,
   nameOriginal: String,
   land: [String]!,
-  start: String!,
-  end: String!,
+  start: Date!,
+  end: Date!,
   id: ID!
 },
 
