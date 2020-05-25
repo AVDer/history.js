@@ -26,7 +26,8 @@ type User {
 type Query {
   hello: String,
   leaders: [Leader!]!,
-  leader(id: ID!): Leader
+  leader(id: ID!): Leader,
+  lands(start: Int!, end: Int!): [String!]!
 }
 
 type Mutation {
