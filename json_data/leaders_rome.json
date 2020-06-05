@@ -1,0 +1,2841 @@
+[
+    {
+        "nameLatin": "Augustus",
+        "url": "/wiki/Augustus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 16,
+            "m": 1,
+            "y": -27
+        },
+        "end": {
+            "d": 19,
+            "m": 8,
+            "y": 14
+        }
+    },
+    {
+        "nameLatin": "Tiberius",
+        "url": "/wiki/Tiberius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 18,
+            "m": 9,
+            "y": 14
+        },
+        "end": {
+            "d": 16,
+            "m": 3,
+            "y": 37
+        }
+    },
+    {
+        "nameLatin": "Caligula",
+        "url": "/wiki/Caligula",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 18,
+            "m": 3,
+            "y": 37
+        },
+        "end": {
+            "d": 24,
+            "m": 1,
+            "y": 41
+        }
+    },
+    {
+        "nameLatin": "Claudius",
+        "url": "/wiki/Claudius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 25,
+            "m": 1,
+            "y": 41
+        },
+        "end": {
+            "d": 13,
+            "m": 10,
+            "y": 54
+        }
+    },
+    {
+        "nameLatin": "Nero",
+        "url": "/wiki/Nero",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 13,
+            "m": 10,
+            "y": 54
+        },
+        "end": {
+            "d": 9,
+            "m": 6,
+            "y": 68
+        }
+    },
+    {
+        "nameLatin": "Galba",
+        "url": "/wiki/Galba",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 8,
+            "m": 6,
+            "y": 68
+        },
+        "end": {
+            "d": 15,
+            "m": 1,
+            "y": 69
+        }
+    },
+    {
+        "nameLatin": "Otho",
+        "url": "/wiki/Otho",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 15,
+            "m": 1,
+            "y": 69
+        },
+        "end": {
+            "d": 16,
+            "m": 4,
+            "y": 69
+        }
+    },
+    {
+        "nameLatin": "Vitellius",
+        "url": "/wiki/Vitellius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 17,
+            "m": 4,
+            "y": 69
+        },
+        "end": {
+            "d": 20,
+            "m": 12,
+            "y": 69
+        }
+    },
+    {
+        "nameLatin": "Vespasian",
+        "url": "/wiki/Vespasian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 21,
+            "m": 12,
+            "y": 69
+        },
+        "end": {
+            "d": 24,
+            "m": 6,
+            "y": 79
+        }
+    },
+    {
+        "nameLatin": "Titus",
+        "url": "/wiki/Titus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 24,
+            "m": 6,
+            "y": 79
+        },
+        "end": {
+            "d": 13,
+            "m": 9,
+            "y": 81
+        }
+    },
+    {
+        "nameLatin": "Domitian",
+        "url": "/wiki/Domitian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 14,
+            "m": 9,
+            "y": 81
+        },
+        "end": {
+            "d": 18,
+            "m": 9,
+            "y": 96
+        }
+    },
+    {
+        "nameLatin": "Pertinax",
+        "url": "/wiki/Pertinax",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 193
+        },
+        "end": {
+            "d": 28,
+            "m": 3,
+            "y": 193
+        }
+    },
+    {
+        "nameLatin": "Didius Julianus",
+        "url": "/wiki/Didius_Julianus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 28,
+            "m": 3,
+            "y": 193
+        },
+        "end": {
+            "d": 1,
+            "m": 6,
+            "y": 193
+        }
+    },
+    {
+        "nameLatin": "Septimius Severus",
+        "url": "/wiki/Septimius_Severus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 9,
+            "m": 4,
+            "y": 193
+        },
+        "end": {
+            "d": 4,
+            "m": 2,
+            "y": 211
+        }
+    },
+    {
+        "nameLatin": "Caracalla",
+        "url": "/wiki/Caracalla",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 4,
+            "m": 2,
+            "y": 211
+        },
+        "end": {
+            "d": 8,
+            "m": 4,
+            "y": 217
+        }
+    },
+    {
+        "nameLatin": "Geta",
+        "url": "/wiki/Publius_Septimius_Geta",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 4,
+            "m": 2,
+            "y": 211
+        },
+        "end": {
+            "d": 26,
+            "m": 12,
+            "y": 211
+        }
+    },
+    {
+        "nameLatin": "Macrinus",
+        "url": "/wiki/Macrinus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 4,
+            "y": 217
+        },
+        "end": {
+            "d": 8,
+            "m": 6,
+            "y": 218
+        }
+    },
+    {
+        "nameLatin": "Elagabalus",
+        "url": "/wiki/Elagabalus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 8,
+            "m": 6,
+            "y": 218
+        },
+        "end": {
+            "d": 11,
+            "m": 3,
+            "y": 222
+        }
+    },
+    {
+        "nameLatin": "Severus Alexander",
+        "url": "/wiki/Severus_Alexander",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 13,
+            "m": 3,
+            "y": 222
+        },
+        "end": {
+            "d": 18,
+            "m": 3,
+            "y": 235
+        }
+    },
+    {
+        "nameLatin": "Maximinus Thrax",
+        "url": "/wiki/Maximinus_Thrax",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 20,
+            "m": 3,
+            "y": 235
+        },
+        "end": {
+            "d": 1,
+            "m": 6,
+            "y": 238
+        }
+    },
+    {
+        "nameLatin": "Gordian I",
+        "url": "/wiki/Gordian_I",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 22,
+            "m": 3,
+            "y": 238
+        },
+        "end": {
+            "d": 22,
+            "m": 3,
+            "y": 238
+        }
+    },
+    {
+        "nameLatin": "Gordian II",
+        "url": "/wiki/Gordian_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 22,
+            "m": 3,
+            "y": 238
+        },
+        "end": {
+            "d": 22,
+            "m": 3,
+            "y": 238
+        }
+    },
+    {
+        "nameLatin": "Pupienus",
+        "url": "/wiki/Pupienus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 22,
+            "m": 4,
+            "y": 238
+        },
+        "end": {
+            "d": 22,
+            "m": 4,
+            "y": 238
+        }
+    },
+    {
+        "nameLatin": "Balbinus",
+        "url": "/wiki/Balbinus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 22,
+            "m": 4,
+            "y": 238
+        },
+        "end": {
+            "d": 22,
+            "m": 4,
+            "y": 238
+        }
+    },
+    {
+        "nameLatin": "Gordian III",
+        "url": "/wiki/Gordian_III",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 22,
+            "m": 4,
+            "y": 238
+        },
+        "end": {
+            "d": 22,
+            "m": 4,
+            "y": 238
+        }
+    },
+    {
+        "nameLatin": "Philip the Arab",
+        "url": "/wiki/Philip_the_Arab",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 2,
+            "y": 244
+        },
+        "end": {
+            "d": 1,
+            "m": 9,
+            "y": 249
+        }
+    },
+    {
+        "nameLatin": "Decius",
+        "url": "/wiki/Decius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 9,
+            "y": 249
+        },
+        "end": {
+            "d": 1,
+            "m": 6,
+            "y": 251
+        }
+    },
+    {
+        "nameLatin": "Hostilian",
+        "url": "/wiki/Hostilian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 6,
+            "y": 251
+        },
+        "end": {
+            "d": 1,
+            "m": 12,
+            "y": 251
+        }
+    },
+    {
+        "nameLatin": "Trebonianus Gallus",
+        "url": "/wiki/Trebonianus_Gallus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 6,
+            "y": 251
+        },
+        "end": {
+            "d": 1,
+            "m": 8,
+            "y": 253
+        }
+    },
+    {
+        "nameLatin": "Aemilian",
+        "url": "/wiki/Aemilian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 8,
+            "y": 253
+        },
+        "end": {
+            "d": 1,
+            "m": 10,
+            "y": 253
+        }
+    },
+    {
+        "nameLatin": "Valerian",
+        "url": "/wiki/Valerian_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 10,
+            "y": 253
+        },
+        "end": {
+            "d": 1,
+            "m": 1,
+            "y": 260
+        }
+    },
+    {
+        "nameLatin": "Gallienus",
+        "url": "/wiki/Gallienus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 10,
+            "y": 253
+        },
+        "end": {
+            "d": 1,
+            "m": 9,
+            "y": 268
+        }
+    },
+    {
+        "nameLatin": "Claudius Gothicus",
+        "url": "/wiki/Claudius_Gothicus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 9,
+            "y": 268
+        },
+        "end": {
+            "d": 1,
+            "m": 1,
+            "y": 270
+        }
+    },
+    {
+        "nameLatin": "Quintillus",
+        "url": "/wiki/Quintillus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 270
+        },
+        "end": {
+            "d": 1,
+            "m": 9,
+            "y": 270
+        }
+    },
+    {
+        "nameLatin": "Aurelian",
+        "url": "/wiki/Aurelian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 9,
+            "y": 270
+        },
+        "end": {
+            "d": 1,
+            "m": 9,
+            "y": 275
+        }
+    },
+    {
+        "nameLatin": "Ulpia Severina",
+        "url": "/wiki/Ulpia_Severina",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 9,
+            "y": 275
+        },
+        "end": {
+            "d": 1,
+            "m": 9,
+            "y": 275
+        }
+    },
+    {
+        "nameLatin": "Tacitus",
+        "url": "/wiki/Tacitus_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 9,
+            "y": 275
+        },
+        "end": {
+            "d": 1,
+            "m": 6,
+            "y": 276
+        }
+    },
+    {
+        "nameLatin": "Florianus",
+        "url": "/wiki/Florianus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 6,
+            "y": 276
+        },
+        "end": {
+            "d": 1,
+            "m": 9,
+            "y": 276
+        }
+    },
+    {
+        "nameLatin": "Probus",
+        "url": "/wiki/Probus_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 9,
+            "y": 276
+        },
+        "end": {
+            "d": 1,
+            "m": 9,
+            "y": 282
+        }
+    },
+    {
+        "nameLatin": "Carus",
+        "url": "/wiki/Carus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 9,
+            "y": 282
+        },
+        "end": {
+            "d": 1,
+            "m": 12,
+            "y": 283
+        }
+    },
+    {
+        "nameLatin": "Carinus",
+        "url": "/wiki/Carinus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 12,
+            "y": 283
+        },
+        "end": {
+            "d": 1,
+            "m": 1,
+            "y": 285
+        }
+    },
+    {
+        "nameLatin": "Numerian",
+        "url": "/wiki/Numerian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 12,
+            "y": 283
+        },
+        "end": {
+            "d": 1,
+            "m": 1,
+            "y": 284
+        }
+    },
+    {
+        "nameLatin": "Diocletian",
+        "url": "/wiki/Diocletian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 20,
+            "m": 11,
+            "y": 284
+        },
+        "end": {
+            "d": 20,
+            "m": 11,
+            "y": 284
+        }
+    },
+    {
+        "nameLatin": "Maximian",
+        "url": "/wiki/Maximian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 4,
+            "y": 286
+        },
+        "end": {
+            "d": 1,
+            "m": 4,
+            "y": 286
+        }
+    },
+    {
+        "nameLatin": "Galerius",
+        "url": "/wiki/Galerius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 5,
+            "y": 305
+        },
+        "end": {
+            "d": 1,
+            "m": 5,
+            "y": 311
+        }
+    },
+    {
+        "nameLatin": "Constantius Chlorus",
+        "url": "/wiki/Constantius_Chlorus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 5,
+            "y": 305
+        },
+        "end": {
+            "d": 1,
+            "m": 5,
+            "y": 305
+        }
+    },
+    {
+        "nameLatin": "Valerius Severus",
+        "url": "/wiki/Valerius_Severus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 7,
+            "y": 306
+        },
+        "end": {
+            "d": 1,
+            "m": 3,
+            "y": 307
+        }
+    },
+    {
+        "nameLatin": "Constantine the Great",
+        "url": "/wiki/Constantine_the_Great",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 25,
+            "m": 7,
+            "y": 306
+        },
+        "end": {
+            "d": 25,
+            "m": 7,
+            "y": 306
+        }
+    },
+    {
+        "nameLatin": "Maxentius",
+        "url": "/wiki/Maxentius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 28,
+            "m": 10,
+            "y": 306
+        },
+        "end": {
+            "d": 28,
+            "m": 10,
+            "y": 306
+        }
+    },
+    {
+        "nameLatin": "Licinius",
+        "url": "/wiki/Licinius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 11,
+            "y": 308
+        },
+        "end": {
+            "d": 11,
+            "m": 11,
+            "y": 308
+        }
+    },
+    {
+        "nameLatin": "Maximinus II",
+        "url": "/wiki/Maximinus_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 5,
+            "y": 311
+        },
+        "end": {
+            "d": 1,
+            "m": 7,
+            "y": 313
+        }
+    },
+    {
+        "nameLatin": "Constantine II",
+        "url": "/wiki/Constantine_II_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 5,
+            "y": 337
+        },
+        "end": {
+            "d": 1,
+            "m": 1,
+            "y": 340
+        }
+    },
+    {
+        "nameLatin": "Constantius II",
+        "url": "/wiki/Constantius_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 22,
+            "m": 5,
+            "y": 337
+        },
+        "end": {
+            "d": 22,
+            "m": 5,
+            "y": 337
+        }
+    },
+    {
+        "nameLatin": "Constans I",
+        "url": "/wiki/Constans_I",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 5,
+            "y": 337
+        },
+        "end": {
+            "d": 1,
+            "m": 1,
+            "y": 350
+        }
+    },
+    {
+        "nameLatin": "Vetranio",
+        "url": "/wiki/Vetranio",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 3,
+            "y": 350
+        },
+        "end": {
+            "d": 1,
+            "m": 3,
+            "y": 350
+        }
+    },
+    {
+        "nameLatin": "Julian",
+        "url": "/wiki/Julian_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 2,
+            "y": 360
+        },
+        "end": {
+            "d": 1,
+            "m": 6,
+            "y": 363
+        }
+    },
+    {
+        "nameLatin": "Jovian",
+        "url": "/wiki/Jovian_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 26,
+            "m": 6,
+            "y": 363
+        },
+        "end": {
+            "d": 26,
+            "m": 6,
+            "y": 363
+        }
+    },
+    {
+        "nameLatin": "Valentinian I",
+        "url": "/wiki/Valentinian_I",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 26,
+            "m": 2,
+            "y": 364
+        },
+        "end": {
+            "d": 26,
+            "m": 2,
+            "y": 364
+        }
+    },
+    {
+        "nameLatin": "Valens",
+        "url": "/wiki/Valens",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 28,
+            "m": 3,
+            "y": 364
+        },
+        "end": {
+            "d": 28,
+            "m": 3,
+            "y": 364
+        }
+    },
+    {
+        "nameLatin": "Gratian",
+        "url": "/wiki/Gratian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 4,
+            "m": 8,
+            "y": 367
+        },
+        "end": {
+            "d": 4,
+            "m": 8,
+            "y": 367
+        }
+    },
+    {
+        "nameLatin": "Valentinian II",
+        "url": "/wiki/Valentinian_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 17,
+            "m": 11,
+            "y": 375
+        },
+        "end": {
+            "d": 17,
+            "m": 11,
+            "y": 375
+        }
+    },
+    {
+        "nameLatin": "Magnus Maximus",
+        "url": "/wiki/Magnus_Maximus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 384
+        },
+        "end": {
+            "d": 28,
+            "m": 8,
+            "y": 388
+        }
+    },
+    {
+        "nameLatin": "Eugenius",
+        "url": "/wiki/Eugenius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 8,
+            "y": 392
+        },
+        "end": {
+            "d": 1,
+            "m": 9,
+            "y": 394
+        }
+    },
+    {
+        "nameLatin": "Theodosius I",
+        "url": "/wiki/Theodosius_I",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 15,
+            "m": 5,
+            "y": 392
+        },
+        "end": {
+            "d": 15,
+            "m": 5,
+            "y": 392
+        }
+    },
+    {
+        "nameLatin": "Honorius",
+        "url": "/wiki/Honorius_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 17,
+            "m": 1,
+            "y": 395
+        },
+        "end": {
+            "d": 17,
+            "m": 1,
+            "y": 395
+        }
+    },
+    {
+        "nameLatin": "Constantine III",
+        "url": "/wiki/Constantine_III_(Western_Roman_Emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 409
+        },
+        "end": {
+            "d": 1,
+            "m": 8,
+            "y": 411
+        }
+    },
+    {
+        "nameLatin": "Constantius III",
+        "url": "/wiki/Constantius_III",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 8,
+            "m": 2,
+            "y": 421
+        },
+        "end": {
+            "d": 8,
+            "m": 2,
+            "y": 421
+        }
+    },
+    {
+        "nameLatin": "Joannes",
+        "url": "/wiki/Joannes",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 8,
+            "y": 423
+        },
+        "end": {
+            "d": 1,
+            "m": 5,
+            "y": 425
+        }
+    },
+    {
+        "nameLatin": "Valentinian III",
+        "url": "/wiki/Valentinian_III",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 23,
+            "m": 10,
+            "y": 424
+        },
+        "end": {
+            "d": 23,
+            "m": 10,
+            "y": 424
+        }
+    },
+    {
+        "nameLatin": "Petronius Maximus",
+        "url": "/wiki/Petronius_Maximus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 17,
+            "m": 3,
+            "y": 455
+        },
+        "end": {
+            "d": 17,
+            "m": 3,
+            "y": 455
+        }
+    },
+    {
+        "nameLatin": "Avitus",
+        "url": "/wiki/Avitus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 9,
+            "m": 7,
+            "y": 455
+        },
+        "end": {
+            "d": 9,
+            "m": 7,
+            "y": 455
+        }
+    },
+    {
+        "nameLatin": "Majorian",
+        "url": "/wiki/Majorian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 4,
+            "y": 457
+        },
+        "end": {
+            "d": 1,
+            "m": 8,
+            "y": 461
+        }
+    },
+    {
+        "nameLatin": "Libius Severus",
+        "url": "/wiki/Libius_Severus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 11,
+            "y": 461
+        },
+        "end": {
+            "d": 1,
+            "m": 8,
+            "y": 465
+        }
+    },
+    {
+        "nameLatin": "Anthemius",
+        "url": "/wiki/Anthemius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 12,
+            "m": 4,
+            "y": 467
+        },
+        "end": {
+            "d": 12,
+            "m": 4,
+            "y": 467
+        }
+    },
+    {
+        "nameLatin": "Olybrius",
+        "url": "/wiki/Olybrius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 7,
+            "y": 472
+        },
+        "end": {
+            "d": 11,
+            "m": 7,
+            "y": 472
+        }
+    },
+    {
+        "nameLatin": "Glycerius",
+        "url": "/wiki/Glycerius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 3,
+            "y": 473
+        },
+        "end": {
+            "d": 1,
+            "m": 6,
+            "y": 474
+        }
+    },
+    {
+        "nameLatin": "Julius Nepos",
+        "url": "/wiki/Julius_Nepos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 6,
+            "y": 474
+        },
+        "end": {
+            "d": 1,
+            "m": 8,
+            "y": 480
+        }
+    },
+    {
+        "nameLatin": "Romulus Augustulus",
+        "url": "/wiki/Romulus_Augustulus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 31,
+            "m": 10,
+            "y": 475
+        },
+        "end": {
+            "d": 31,
+            "m": 10,
+            "y": 475
+        }
+    },
+    {
+        "nameLatin": "Theodosius I",
+        "url": "/wiki/Theodosius_I",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 19,
+            "m": 1,
+            "y": 379
+        },
+        "end": {
+            "d": 19,
+            "m": 1,
+            "y": 379
+        }
+    },
+    {
+        "nameLatin": "Arcadius",
+        "url": "/wiki/Arcadius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 17,
+            "m": 1,
+            "y": 395
+        },
+        "end": {
+            "d": 17,
+            "m": 1,
+            "y": 395
+        }
+    },
+    {
+        "nameLatin": "Theodosius II",
+        "url": "/wiki/Theodosius_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 402
+        },
+        "end": {
+            "d": 1,
+            "m": 7,
+            "y": 450
+        }
+    },
+    {
+        "nameLatin": "Marcian",
+        "url": "/wiki/Marcian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 25,
+            "m": 11,
+            "y": 450
+        },
+        "end": {
+            "d": 25,
+            "m": 11,
+            "y": 450
+        }
+    },
+    {
+        "nameLatin": "Leo I the Thracian",
+        "url": "/wiki/Leo_I_the_Thracian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 7,
+            "m": 2,
+            "y": 457
+        },
+        "end": {
+            "d": 18,
+            "m": 1,
+            "y": 474
+        }
+    },
+    {
+        "nameLatin": "Leo II",
+        "url": "/wiki/Leo_II_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 18,
+            "m": 1,
+            "y": 474
+        },
+        "end": {
+            "d": 17,
+            "m": 11,
+            "y": 474
+        }
+    },
+    {
+        "nameLatin": "Zeno",
+        "url": "/wiki/Zeno_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 17,
+            "m": 11,
+            "y": 474
+        },
+        "end": {
+            "d": 9,
+            "m": 4,
+            "y": 491
+        }
+    },
+    {
+        "nameLatin": "Basiliscus",
+        "url": "/wiki/Basiliscus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 9,
+            "m": 1,
+            "y": 475
+        },
+        "end": {
+            "d": 1,
+            "m": 8,
+            "y": 476
+        }
+    },
+    {
+        "nameLatin": "Anastasius I Dicorus",
+        "url": "/wiki/Anastasius_I_Dicorus",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 4,
+            "y": 491
+        },
+        "end": {
+            "d": 9,
+            "m": 7,
+            "y": 518
+        }
+    },
+    {
+        "nameLatin": "Justin I",
+        "url": "/wiki/Justin_I",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 7,
+            "y": 518
+        },
+        "end": {
+            "d": 1,
+            "m": 8,
+            "y": 527
+        }
+    },
+    {
+        "nameLatin": "Justinian I",
+        "url": "/wiki/Justinian_I",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 8,
+            "y": 527
+        },
+        "end": {
+            "d": 13,
+            "m": 11,
+            "y": 565
+        }
+    },
+    {
+        "nameLatin": "Justin II",
+        "url": "/wiki/Justin_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 14,
+            "m": 11,
+            "y": 565
+        },
+        "end": {
+            "d": 5,
+            "m": 10,
+            "y": 578
+        }
+    },
+    {
+        "nameLatin": "Tiberius II Constantine",
+        "url": "/wiki/Tiberius_II_Constantine",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 5,
+            "m": 10,
+            "y": 578
+        },
+        "end": {
+            "d": 14,
+            "m": 8,
+            "y": 582
+        }
+    },
+    {
+        "nameLatin": "Maurice",
+        "url": "/wiki/Maurice_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 14,
+            "m": 8,
+            "y": 582
+        },
+        "end": {
+            "d": 22,
+            "m": 11,
+            "y": 602
+        }
+    },
+    {
+        "nameLatin": "Phocas",
+        "url": "/wiki/Phocas",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 23,
+            "m": 11,
+            "y": 602
+        },
+        "end": {
+            "d": 4,
+            "m": 10,
+            "y": 610
+        }
+    },
+    {
+        "nameLatin": "Heraclius",
+        "url": "/wiki/Heraclius",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 5,
+            "m": 10,
+            "y": 610
+        },
+        "end": {
+            "d": 11,
+            "m": 2,
+            "y": 641
+        }
+    },
+    {
+        "nameLatin": "Constantine III",
+        "url": "/wiki/Constantine_III_(Byzantine_emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 2,
+            "y": 641
+        },
+        "end": {
+            "d": 24,
+            "m": 5,
+            "y": 641
+        }
+    },
+    {
+        "nameLatin": "Heraklonas",
+        "url": "/wiki/Heraklonas",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 2,
+            "y": 641
+        },
+        "end": {
+            "d": 1,
+            "m": 9,
+            "y": 641
+        }
+    },
+    {
+        "nameLatin": "Constans II",
+        "url": "/wiki/Constans_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 9,
+            "y": 641
+        },
+        "end": {
+            "d": 15,
+            "m": 9,
+            "y": 668
+        }
+    },
+    {
+        "nameLatin": "Constantine IV",
+        "url": "/wiki/Constantine_IV",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 15,
+            "m": 9,
+            "y": 668
+        },
+        "end": {
+            "d": 14,
+            "m": 9,
+            "y": 685
+        }
+    },
+    {
+        "nameLatin": "Justinian II",
+        "url": "/wiki/Justinian_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 14,
+            "m": 9,
+            "y": 685
+        },
+        "end": {
+            "d": 1,
+            "m": 1,
+            "y": 695
+        }
+    },
+    {
+        "nameLatin": "Leontios",
+        "url": "/wiki/Leontios",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 695
+        },
+        "end": {
+            "d": 1,
+            "m": 1,
+            "y": 698
+        }
+    },
+    {
+        "nameLatin": "Tiberios III Apsimaros",
+        "url": "/wiki/Tiberios_III",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 698
+        },
+        "end": {
+            "d": 1,
+            "m": 1,
+            "y": 705
+        }
+    },
+    {
+        "nameLatin": "Justinian II",
+        "url": "/wiki/Justinian_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 8,
+            "y": 705
+        },
+        "end": {
+            "d": 1,
+            "m": 12,
+            "y": 711
+        }
+    },
+    {
+        "nameLatin": "Philippikos Bardanes",
+        "url": "/wiki/Philippikos_Bardanes",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 12,
+            "y": 711
+        },
+        "end": {
+            "d": 3,
+            "m": 6,
+            "y": 713
+        }
+    },
+    {
+        "nameLatin": "Anastasios II",
+        "url": "/wiki/Anastasios_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 6,
+            "y": 713
+        },
+        "end": {
+            "d": 1,
+            "m": 11,
+            "y": 715
+        }
+    },
+    {
+        "nameLatin": "Theodosius III",
+        "url": "/wiki/Theodosius_III",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 5,
+            "y": 715
+        },
+        "end": {
+            "d": 25,
+            "m": 3,
+            "y": 717
+        }
+    },
+    {
+        "nameLatin": "Leo III the Isaurian",
+        "url": "/wiki/Leo_III_the_Isaurian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 25,
+            "m": 3,
+            "y": 717
+        },
+        "end": {
+            "d": 18,
+            "m": 6,
+            "y": 741
+        }
+    },
+    {
+        "nameLatin": "Constantine V",
+        "url": "/wiki/Constantine_V",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 18,
+            "m": 6,
+            "y": 741
+        },
+        "end": {
+            "d": 14,
+            "m": 9,
+            "y": 775
+        }
+    },
+    {
+        "nameLatin": "Artabasdos",
+        "url": "/wiki/Artabasdos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 742
+        },
+        "end": {
+            "d": 2,
+            "m": 11,
+            "y": 743
+        }
+    },
+    {
+        "nameLatin": "Leo IV the Khazar",
+        "url": "/wiki/Leo_IV_the_Khazar",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 14,
+            "m": 9,
+            "y": 775
+        },
+        "end": {
+            "d": 8,
+            "m": 9,
+            "y": 780
+        }
+    },
+    {
+        "nameLatin": "Constantine VI",
+        "url": "/wiki/Constantine_VI",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 8,
+            "m": 9,
+            "y": 780
+        },
+        "end": {
+            "d": 1,
+            "m": 8,
+            "y": 797
+        }
+    },
+    {
+        "nameLatin": "Irene of Athens",
+        "url": "/wiki/Irene_of_Athens",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 8,
+            "y": 797
+        },
+        "end": {
+            "d": 31,
+            "m": 10,
+            "y": 802
+        }
+    },
+    {
+        "nameLatin": "Nikephoros I",
+        "url": "/wiki/Nikephoros_I",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 31,
+            "m": 10,
+            "y": 802
+        },
+        "end": {
+            "d": 26,
+            "m": 7,
+            "y": 811
+        }
+    },
+    {
+        "nameLatin": "Staurakios",
+        "url": "/wiki/Staurakios",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 26,
+            "m": 7,
+            "y": 811
+        },
+        "end": {
+            "d": 2,
+            "m": 10,
+            "y": 811
+        }
+    },
+    {
+        "nameLatin": "Michael I Rangabe",
+        "url": "/wiki/Michael_I_Rangabe",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 2,
+            "m": 10,
+            "y": 811
+        },
+        "end": {
+            "d": 22,
+            "m": 6,
+            "y": 813
+        }
+    },
+    {
+        "nameLatin": "Leo V the Armenian",
+        "url": "/wiki/Leo_V_the_Armenian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 7,
+            "y": 813
+        },
+        "end": {
+            "d": 25,
+            "m": 12,
+            "y": 820
+        }
+    },
+    {
+        "nameLatin": "Michael II",
+        "url": "/wiki/Michael_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 25,
+            "m": 12,
+            "y": 820
+        },
+        "end": {
+            "d": 2,
+            "m": 10,
+            "y": 829
+        }
+    },
+    {
+        "nameLatin": "Theophilos",
+        "url": "/wiki/Theophilos_(emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 2,
+            "m": 10,
+            "y": 829
+        },
+        "end": {
+            "d": 20,
+            "m": 1,
+            "y": 842
+        }
+    },
+    {
+        "nameLatin": "Michael III",
+        "url": "/wiki/Michael_III",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 20,
+            "m": 1,
+            "y": 842
+        },
+        "end": {
+            "d": 23,
+            "m": 9,
+            "y": 867
+        }
+    },
+    {
+        "nameLatin": "Basil I the Macedonian",
+        "url": "/wiki/Basil_I_the_Macedonian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 867
+        },
+        "end": {
+            "d": 29,
+            "m": 8,
+            "y": 886
+        }
+    },
+    {
+        "nameLatin": "Leo VI the Wise",
+        "url": "/wiki/Leo_VI_the_Wise",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 886
+        },
+        "end": {
+            "d": 11,
+            "m": 5,
+            "y": 912
+        }
+    },
+    {
+        "nameLatin": "Alexander",
+        "url": "/wiki/Alexander_(Byzantine_emperor)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 5,
+            "y": 912
+        },
+        "end": {
+            "d": 6,
+            "m": 6,
+            "y": 913
+        }
+    },
+    {
+        "nameLatin": "Constantine VII",
+        "url": "/wiki/Constantine_VII",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 6,
+            "m": 6,
+            "y": 913
+        },
+        "end": {
+            "d": 9,
+            "m": 11,
+            "y": 959
+        }
+    },
+    {
+        "nameLatin": "Romanos I Lekapenos",
+        "url": "/wiki/Romanos_I_Lekapenos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 17,
+            "m": 12,
+            "y": 920
+        },
+        "end": {
+            "d": 16,
+            "m": 12,
+            "y": 944
+        }
+    },
+    {
+        "nameLatin": "Romanos II",
+        "url": "/wiki/Romanos_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 9,
+            "m": 11,
+            "y": 959
+        },
+        "end": {
+            "d": 15,
+            "m": 3,
+            "y": 963
+        }
+    },
+    {
+        "nameLatin": "Nikephoros II Phokas",
+        "url": "/wiki/Nikephoros_II_Phokas",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 16,
+            "m": 8,
+            "y": 963
+        },
+        "end": {
+            "d": 11,
+            "m": 12,
+            "y": 969
+        }
+    },
+    {
+        "nameLatin": "John I Tzimiskes",
+        "url": "/wiki/John_I_Tzimiskes",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 12,
+            "y": 969
+        },
+        "end": {
+            "d": 10,
+            "m": 1,
+            "y": 976
+        }
+    },
+    {
+        "nameLatin": "Basil II",
+        "url": "/wiki/Basil_II",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 10,
+            "m": 1,
+            "y": 976
+        },
+        "end": {
+            "d": 15,
+            "m": 12,
+            "y": 1025
+        }
+    },
+    {
+        "nameLatin": "Constantine VIII",
+        "url": "/wiki/Constantine_VIII",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 15,
+            "m": 12,
+            "y": 1025
+        },
+        "end": {
+            "d": 15,
+            "m": 11,
+            "y": 1028
+        }
+    },
+    {
+        "nameLatin": "Zoe Porphyrogenita",
+        "url": "/wiki/Zoe_Porphyrogenita",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 15,
+            "m": 11,
+            "y": 1028
+        },
+        "end": {
+            "d": 1,
+            "m": 6,
+            "y": 1050
+        }
+    },
+    {
+        "nameLatin": "Romanos III Argyros",
+        "url": "/wiki/Romanos_III_Argyros",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 15,
+            "m": 11,
+            "y": 1028
+        },
+        "end": {
+            "d": 11,
+            "m": 4,
+            "y": 1034
+        }
+    },
+    {
+        "nameLatin": "Michael IV the Paphlagonian",
+        "url": "/wiki/Michael_IV_the_Paphlagonian",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 4,
+            "y": 1034
+        },
+        "end": {
+            "d": 10,
+            "m": 12,
+            "y": 1041
+        }
+    },
+    {
+        "nameLatin": "Michael V Kalaphates",
+        "url": "/wiki/Michael_V_Kalaphates",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 10,
+            "m": 12,
+            "y": 1041
+        },
+        "end": {
+            "d": 20,
+            "m": 4,
+            "y": 1042
+        }
+    },
+    {
+        "nameLatin": "Theodora Porphyrogenita",
+        "url": "/wiki/Theodora_Porphyrogenita_(11th_century)",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 19,
+            "m": 4,
+            "y": 1042
+        },
+        "end": {
+            "d": 31,
+            "m": 8,
+            "y": 1056
+        }
+    },
+    {
+        "nameLatin": "Constantine IX Monomachos",
+        "url": "/wiki/Constantine_IX_Monomachos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 6,
+            "y": 1042
+        },
+        "end": {
+            "d": 11,
+            "m": 1,
+            "y": 1055
+        }
+    },
+    {
+        "nameLatin": "Michael VI Bringas",
+        "url": "/wiki/Michael_VI_Bringas",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 9,
+            "y": 1056
+        },
+        "end": {
+            "d": 31,
+            "m": 8,
+            "y": 1057
+        }
+    },
+    {
+        "nameLatin": "Isaac I Komnenos",
+        "url": "/wiki/Isaac_I_Komnenos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 5,
+            "m": 6,
+            "y": 1057
+        },
+        "end": {
+            "d": 22,
+            "m": 11,
+            "y": 1059
+        }
+    },
+    {
+        "nameLatin": "Constantine X Doukas",
+        "url": "/wiki/Constantine_X_Doukas",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 24,
+            "m": 11,
+            "y": 1059
+        },
+        "end": {
+            "d": 22,
+            "m": 5,
+            "y": 1067
+        }
+    },
+    {
+        "nameLatin": "Michael VII Doukas",
+        "url": "/wiki/Michael_VII_Doukas",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 22,
+            "m": 5,
+            "y": 1067
+        },
+        "end": {
+            "d": 31,
+            "m": 3,
+            "y": 1078
+        }
+    },
+    {
+        "nameLatin": "Romanos IV Diogenes",
+        "url": "/wiki/Romanos_IV_Diogenes",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 1068
+        },
+        "end": {
+            "d": 24,
+            "m": 10,
+            "y": 1071
+        }
+    },
+    {
+        "nameLatin": "Nikephoros III Botaneiates",
+        "url": "/wiki/Nikephoros_III_Botaneiates",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 31,
+            "m": 3,
+            "y": 1078
+        },
+        "end": {
+            "d": 4,
+            "m": 4,
+            "y": 1081
+        }
+    },
+    {
+        "nameLatin": "Alexios I Komnenos",
+        "url": "/wiki/Alexios_I_Komnenos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 4,
+            "m": 4,
+            "y": 1081
+        },
+        "end": {
+            "d": 15,
+            "m": 8,
+            "y": 1118
+        }
+    },
+    {
+        "nameLatin": "John II Komnenos",
+        "url": "/wiki/John_II_Komnenos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 15,
+            "m": 8,
+            "y": 1118
+        },
+        "end": {
+            "d": 8,
+            "m": 4,
+            "y": 1143
+        }
+    },
+    {
+        "nameLatin": "Manuel I Komnenos",
+        "url": "/wiki/Manuel_I_Komnenos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 1143
+        },
+        "end": {
+            "d": 24,
+            "m": 9,
+            "y": 1180
+        }
+    },
+    {
+        "nameLatin": "Alexios II Komnenos",
+        "url": "/wiki/Alexios_II_Komnenos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 24,
+            "m": 9,
+            "y": 1180
+        },
+        "end": {
+            "d": 1,
+            "m": 10,
+            "y": 1183
+        }
+    },
+    {
+        "nameLatin": "Andronikos I Komnenos",
+        "url": "/wiki/Andronikos_I_Komnenos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 10,
+            "y": 1183
+        },
+        "end": {
+            "d": 12,
+            "m": 9,
+            "y": 1185
+        }
+    },
+    {
+        "nameLatin": "Isaac II Angelos",
+        "url": "/wiki/Isaac_II_Angelos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 1185
+        },
+        "end": {
+            "d": 1,
+            "m": 1,
+            "y": 1195
+        }
+    },
+    {
+        "nameLatin": "Alexios III Angelos",
+        "url": "/wiki/Alexios_III_Angelos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 1195
+        },
+        "end": {
+            "d": 17,
+            "m": 7,
+            "y": 1203
+        }
+    },
+    {
+        "nameLatin": "Isaac II Angelos",
+        "url": "/wiki/Isaac_II_Angelos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 18,
+            "m": 7,
+            "y": 1203
+        },
+        "end": {
+            "d": 27,
+            "m": 1,
+            "y": 1204
+        }
+    },
+    {
+        "nameLatin": "Alexios IV Angelos",
+        "url": "/wiki/Alexios_IV_Angelos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 8,
+            "y": 1203
+        },
+        "end": {
+            "d": 27,
+            "m": 1,
+            "y": 1204
+        }
+    },
+    {
+        "nameLatin": "Alexios V Doukas",
+        "url": "/wiki/Alexios_V_Doukas",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 5,
+            "m": 2,
+            "y": 1204
+        },
+        "end": {
+            "d": 13,
+            "m": 4,
+            "y": 1204
+        }
+    },
+    {
+        "nameLatin": "Theodore I Laskaris",
+        "url": "/wiki/Theodore_I_Laskaris",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 1205
+        },
+        "end": {
+            "d": 1,
+            "m": 11,
+            "y": 1221
+        }
+    },
+    {
+        "nameLatin": "John III Doukas Vatatzes",
+        "url": "/wiki/John_III_Doukas_Vatatzes",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 15,
+            "m": 12,
+            "y": 1221
+        },
+        "end": {
+            "d": 3,
+            "m": 11,
+            "y": 1254
+        }
+    },
+    {
+        "nameLatin": "Theodore II Laskaris",
+        "url": "/wiki/Theodore_II_Laskaris",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 3,
+            "m": 11,
+            "y": 1254
+        },
+        "end": {
+            "d": 18,
+            "m": 8,
+            "y": 1258
+        }
+    },
+    {
+        "nameLatin": "John IV Laskaris",
+        "url": "/wiki/John_IV_Laskaris",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 18,
+            "m": 8,
+            "y": 1258
+        },
+        "end": {
+            "d": 25,
+            "m": 12,
+            "y": 1261
+        }
+    },
+    {
+        "nameLatin": "Michael VIII Palaiologos",
+        "url": "/wiki/Michael_VIII_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 1259
+        },
+        "end": {
+            "d": 11,
+            "m": 12,
+            "y": 1282
+        }
+    },
+    {
+        "nameLatin": "Andronikos II Palaiologos",
+        "url": "/wiki/Andronikos_II_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 11,
+            "m": 12,
+            "y": 1282
+        },
+        "end": {
+            "d": 24,
+            "m": 5,
+            "y": 1328
+        }
+    },
+    {
+        "nameLatin": "Michael IX Palaiologos",
+        "url": "/wiki/Michael_IX_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 1,
+            "y": 1295
+        },
+        "end": {
+            "d": 12,
+            "m": 10,
+            "y": 1320
+        }
+    },
+    {
+        "nameLatin": "Andronikos III Palaiologos",
+        "url": "/wiki/Andronikos_III_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 24,
+            "m": 5,
+            "y": 1328
+        },
+        "end": {
+            "d": 15,
+            "m": 6,
+            "y": 1341
+        }
+    },
+    {
+        "nameLatin": "John V Palaiologos",
+        "url": "/wiki/John_V_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 15,
+            "m": 6,
+            "y": 1341
+        },
+        "end": {
+            "d": 12,
+            "m": 8,
+            "y": 1376
+        }
+    },
+    {
+        "nameLatin": "John VI Kantakouzenos",
+        "url": "/wiki/John_VI_Kantakouzenos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 8,
+            "m": 2,
+            "y": 1347
+        },
+        "end": {
+            "d": 4,
+            "m": 12,
+            "y": 1354
+        }
+    },
+    {
+        "nameLatin": "Andronikos IV Palaiologos",
+        "url": "/wiki/Andronikos_IV_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 12,
+            "m": 8,
+            "y": 1376
+        },
+        "end": {
+            "d": 1,
+            "m": 7,
+            "y": 1379
+        }
+    },
+    {
+        "nameLatin": "John V Palaiologos",
+        "url": "/wiki/John_V_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 1,
+            "m": 7,
+            "y": 1379
+        },
+        "end": {
+            "d": 14,
+            "m": 4,
+            "y": 1390
+        }
+    },
+    {
+        "nameLatin": "John VII Palaiologos",
+        "url": "/wiki/John_VII_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 14,
+            "m": 4,
+            "y": 1390
+        },
+        "end": {
+            "d": 17,
+            "m": 9,
+            "y": 1390
+        }
+    },
+    {
+        "nameLatin": "John V Palaiologos",
+        "url": "/wiki/John_V_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 17,
+            "m": 9,
+            "y": 1390
+        },
+        "end": {
+            "d": 16,
+            "m": 2,
+            "y": 1391
+        }
+    },
+    {
+        "nameLatin": "Manuel II Palaiologos",
+        "url": "/wiki/Manuel_II_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 16,
+            "m": 2,
+            "y": 1391
+        },
+        "end": {
+            "d": 21,
+            "m": 7,
+            "y": 1425
+        }
+    },
+    {
+        "nameLatin": "John VIII Palaiologos",
+        "url": "/wiki/John_VIII_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 21,
+            "m": 7,
+            "y": 1425
+        },
+        "end": {
+            "d": 31,
+            "m": 10,
+            "y": 1448
+        }
+    },
+    {
+        "nameLatin": "Constantine XI Palaiologos",
+        "url": "/wiki/Constantine_XI_Palaiologos",
+        "land": [
+            ""
+        ],
+        "start": {
+            "d": 6,
+            "m": 1,
+            "y": 1449
+        },
+        "end": {
+            "d": 29,
+            "m": 5,
+            "y": 1453
+        }
+    }
+]

@@ -51,21 +51,25 @@ def parseDateRange(dateRange, dateFormats):
 def parseFile(filename, dateFormats):
   with open(filename, encoding="utf8") as data_file:
       s = data_file.readline()
-      s = re.sub(r'<a.*?href="(.*?)".*?>(.*?)</a>', r'\2 {\1}', s)
-      s = re.sub('\?', '', s)
+      s = re.sub(r'<a .*?href="(.*?)".*?>(.*?)</a>', r'\2 {\1}', s)
+      s = re.sub(r'?', '', s)
       s = re.sub(r'–', '-', s)
       tables = re.findall( r'<table.*?</table>', s)
 
-      for x in range(0, 15):
-        table = etree.HTML(tables[x]).find("body/table")
+      for htmlTable in tables:
+        table = etree.HTML(htmlTable).find("body/table")
         rows = iter(table)
         headers = [col.text for col in next(rows)]
-        if not headers: continue
+        if len(headers) < 2: continue
         for row in rows:
             values = [col.text for col in row]
             tleader = dict(zip(headers, values))
             leader = dict()
-            leader['nameLatin'] = tleader['Name']
+            name = tleader['Name']
+            match = re.search(r'^^([\w\s]+)\s{(.*)}', name)
+            leader['nameLatin'] = match.group(1)
+            leader['url'] = match.group(2)
+            leader['land'] = ['']
             parsedDate = parseDateRange(tleader['Reign'], dateFormats)
             leader['start'] = parsedDate[0]
             leader['end'] = parsedDate[1]
@@ -82,22 +86,34 @@ if __name__ == "__main__":
   # 20 March 235 - June 238
   dateFormats.append(DateRangeFormat(r'^(\d+).* ([A-Za-z]+).* (\d+ ?\w+) - ([A-Za-z]+).* (\d+ ?\w+)', \
     {'sd': 1, 'sm': 2, 'sy': 3, 'ed': 42, 'em': 4, 'ey': 5}))
+  # July 518 - 1 August 527
+  dateFormats.append(DateRangeFormat(r'([A-Za-z]+).* (\d+ ?\w+) - (\d+).* ([A-Za-z]+).* (\d+ ?\w+)', \
+    {'sd': 42, 'sm': 1, 'sy': 2, 'ed': 3, 'em': 4, 'ey': 5}))
   # March 22, 238 - April 12, 238
   dateFormats.append(DateRangeFormat(r'^([A-Za-z]+).* (\d+),.* (\d+ ?\w+) - ([A-Za-z]+).* (\d+),.* (\d+ ?\w+)', \
     {'sd': 2, 'sm': 1, 'sy': 3, 'ed': 2, 'em': 1, 'ey': 3}))
   # February 244 - September/October 249
   dateFormats.append(DateRangeFormat(r'^([A-Za-z]+).* (\d+ ?\w+) - ([A-Za-z]+).* (\d+ ?\w+)', \
     {'sd': 42, 'sm': 1, 'sy': 2, 'ed': 42, 'em': 3, 'ey': 4}))
+  # 14 September 685 - 695
+  dateFormats.append(DateRangeFormat(r'^(\d+).* ([A-Za-z]+).* (\d+ ?\w+) - (\d+ ?\w+)', \
+    {'sd': 1, 'sm': 2, 'sy': 3, 'ed': 42, 'em': 42, 'ey': 4}))
+  # 867 – 29 August 886
+  dateFormats.append(DateRangeFormat(r'(\d+ ?\w+) - (\d+).* ([A-Za-z]+).* (\d+ ?\w+)', \
+    {'sd': 42, 'sm': 42, 'sy': 1, 'ed': 2, 'em': 3, 'ey': 4}))
   # October 253 - 260
   dateFormats.append(DateRangeFormat(r'^([A-Za-z]+).* (\d+ ?\w+) - (\d+ ?\w+)', \
     {'sd': 42, 'sm': 1, 'sy': 2, 'ed': 42, 'em': 42, 'ey': 3}))
-  # September 275
-  dateFormats.append(DateRangeFormat(r'^([A-Za-z]+).* (\d+ ?\w+)', \
-    {'sd': 42, 'sm': 1, 'sy': 2, 'ed': 42, 'em': 1, 'ey': 2}))
   # 383/384 - August 28, 388
   dateFormats.append(DateRangeFormat(r'(\d+ ?\w+) - ([A-Za-z]+).* (\d+), (\d+ ?\w+)', \
     {'sd': 42, 'sm': 42, 'sy': 1, 'ed': 3, 'em': 2, 'ey': 4}))
   # '407/409 - August or September 411'
   dateFormats.append(DateRangeFormat(r'(\d+ ?\w+) - ([A-Za-z]+).* (\d+ ?\w+)', \
     {'sd': 42, 'sm': 42, 'sy': 1, 'ed': 42, 'em': 2, 'ey': 3}))
+  # 695 - 698
+  dateFormats.append(DateRangeFormat(r'(\d+ ?\w+) - (\d+ ?\w+)', \
+    {'sd': 42, 'sm': 42, 'sy': 1, 'ed': 42, 'em': 42, 'ey': 2}))
+  # September 275
+  dateFormats.append(DateRangeFormat(r'^([A-Za-z]+).* (\d+ ?\w+)', \
+    {'sd': 42, 'sm': 1, 'sy': 2, 'ed': 42, 'em': 1, 'ey': 2}))
   parseFile('./parser/data.data', dateFormats)
