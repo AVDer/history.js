@@ -6,30 +6,43 @@ def monthNumber(month):
                    'July': 7, 'August': 8, 'September': 9, 'October': 10, 'November': 11, 'December': 12}
   if (month.isnumeric() == True): return month
   return month_numbers[month]
+class DateRangeFormat:
+  def __init__(self, dateFormat, datePositions):
+    self.dateFormat = dateFormat
+    self.datePositions = datePositions
 
-def parseDate(date, dateFormats):
-  date = date.strip()
-  ad = True
-  if (date.endswith('BC')):
-    ad = False
-    date = date[0:-2]
-  if (date.endswith('AD')):
-    ad = True
-    date = date[0:-2]
-  date = date.strip()
-  components = date.split(' ')
-  if (len(components) == 3):
-    return {'d': int(components[0]), 'm': monthNumber(components[1]), 'y': ('' if ad else '-') + str(int(components[2]))}
-  return date
+  def parseDateRange(self, dateRange):
+    self.match = re.search(self.dateFormat, dateRange)
+    return self.match != None
+
+  def getDateItem(self, dateItem):
+    if dateItem == 'sd' or dateItem == 'ed':
+      return int(self.match.group(self.datePositions[dateItem]))
+    if dateItem == 'sm' or dateItem == 'em':
+      return monthNumber(self.match.group(self.datePositions[dateItem]))
+    if dateItem == 'sy' or dateItem == 'ey':
+      year = self.match.group(self.datePositions[dateItem])
+      annoDomini = True
+      if (year.endswith('BC')):
+        annoDomini = False
+        year = year[0:-2]
+      if (year.endswith('AD')):
+        annoDomini = True
+        year = year[0:-2]
+      year = int(year.strip())
+      if not annoDomini: year *= -1
+      return year
+    return None
+
+def parseDateRange(dateRange, dateFormat):
+  dateFormat.parseDateRange(dateRange)
+  startDate = {'d': dateFormat.getDateItem('sd'), 'm': dateFormat.getDateItem('sm'), 'y': dateFormat.getDateItem('sy')}
+  endDate = {'d': dateFormat.getDateItem('ed'), 'm': dateFormat.getDateItem('em'), 'y': dateFormat.getDateItem('ey')}
+
+  return [startDate, endDate]
 
 
-def parseDateRange(range, dateSplitter, dateFormats):
-  dates = range.split(dateSplitter)
-  return (parseDate(dates[0], dateFormats), parseDate(dates[1], dateFormats))
-
-
-def parseFile(filename, dateSplitter, dateFormats):
-  result = []
+def parseFile(filename, dateFormats):
   with open(filename, encoding="utf8") as data_file:
       s = data_file.readline()
       s = re.sub(r'<a.*?href="(.*?)".*?>(.*?)</a>', r'\2 {\1}', s)
@@ -39,15 +52,18 @@ def parseFile(filename, dateSplitter, dateFormats):
         table = etree.HTML(tables[x]).find("body/table")
         rows = iter(table)
         headers = [col.text for col in next(rows)]
+        if not headers: continue
         for row in rows:
             values = [col.text for col in row]
             tleader = dict(zip(headers, values))
             leader = dict()
             leader['nameLatin'] = tleader['Name']
-            parsedDate = parseDateRange(tleader['Reign'], dateSplitter, dateFormats)
+            parsedDate = parseDateRange(tleader['Reign'], dateFormats)
             leader['start'] = parsedDate[0]
             leader['end'] = parsedDate[1]
             print(leader)
 
 if __name__ == "__main__":
-  parseFile('./parser/data.data', '–', 'd M Y')
+  dateFormat = DateRangeFormat(r'^(\d+).* ([A-Za-z]+).* (\d+ ?\w+) – (\d+).* ([A-Za-z]+).* (\d+ ?\w+)$', \
+    {'sd': 1, 'sm': 2, 'sy': 3, 'ed': 4, 'em': 5, 'ey': 6})
+  parseFile('./parser/data.data', dateFormat)
