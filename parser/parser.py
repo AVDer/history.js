@@ -13,6 +13,8 @@ class DateRangeFormat:
 
   def parseDateRange(self, dateRange):
     self.match = re.search(self.dateFormat, dateRange)
+    # Just for debug
+    self.dateRange = dateRange
     return self.match != None
 
   def getDateItem(self, dateItem):
@@ -34,12 +36,13 @@ class DateRangeFormat:
       return year
     return None
 
-def parseDateRange(dateRange, dateFormat):
-  dateFormat.parseDateRange(dateRange)
-  startDate = {'d': dateFormat.getDateItem('sd'), 'm': dateFormat.getDateItem('sm'), 'y': dateFormat.getDateItem('sy')}
-  endDate = {'d': dateFormat.getDateItem('ed'), 'm': dateFormat.getDateItem('em'), 'y': dateFormat.getDateItem('ey')}
-
-  return [startDate, endDate]
+def parseDateRange(dateRange, dateFormats):
+  for dateFormat in dateFormats:
+    if not dateFormat.parseDateRange(dateRange): continue
+    startDate = {'d': dateFormat.getDateItem('sd'), 'm': dateFormat.getDateItem('sm'), 'y': dateFormat.getDateItem('sy')}
+    endDate = {'d': dateFormat.getDateItem('ed'), 'm': dateFormat.getDateItem('em'), 'y': dateFormat.getDateItem('ey')}
+    return [startDate, endDate]
+  raise Exception("Can't find suitable format for date: {}".format(dateRange)) 
 
 
 def parseFile(filename, dateFormats):
@@ -48,7 +51,7 @@ def parseFile(filename, dateFormats):
       s = re.sub(r'<a.*?href="(.*?)".*?>(.*?)</a>', r'\2 {\1}', s)
       tables = re.findall( r'<table.*?</table>', s)
 
-      for x in range(0, 1):
+      for x in range(0, 4):
         table = etree.HTML(tables[x]).find("body/table")
         rows = iter(table)
         headers = [col.text for col in next(rows)]
@@ -64,6 +67,9 @@ def parseFile(filename, dateFormats):
             print(leader)
 
 if __name__ == "__main__":
-  dateFormat = DateRangeFormat(r'^(\d+).* ([A-Za-z]+).* (\d+ ?\w+) – (\d+).* ([A-Za-z]+).* (\d+ ?\w+)$', \
-    {'sd': 1, 'sm': 2, 'sy': 3, 'ed': 4, 'em': 5, 'ey': 6})
-  parseFile('./parser/data.data', dateFormat)
+  dateFormats = []
+  dateFormats.append(DateRangeFormat(r'^(\d+).* ([A-Za-z]+).* (\d+ ?\w+) – (\d+).* ([A-Za-z]+).* (\d+ ?\w+)$', \
+    {'sd': 1, 'sm': 2, 'sy': 3, 'ed': 4, 'em': 5, 'ey': 6}))
+  dateFormats.append(DateRangeFormat(r'^(\d+).* ([A-Za-z]+).* – (\d+).* ([A-Za-z]+).* (\d+ ?\w+)$', \
+    {'sd': 1, 'sm': 2, 'sy': 5, 'ed': 3, 'em': 4, 'ey': 5}))
+  parseFile('./parser/data.data', dateFormats)
