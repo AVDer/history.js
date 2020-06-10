@@ -14,6 +14,7 @@ type Leader {
   land: [String]!,
   start: Date!,
   end: Date!,
+  url: String,
   id: ID!
 },
 

@@ -25,6 +25,10 @@ const leaderSchema = new mongoose.Schema(
             y: Number,
             m: Number,
             d: Number
+        },
+        url: {
+            type: String,
+            required: false
         }
     },
     {
