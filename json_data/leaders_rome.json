@@ -187,6 +187,125 @@
         }
     },
     {
+        "nameLatin": "Nerva",
+        "url": "/wiki/Nerva",
+        "land": [
+            "Roman Empire"
+        ],
+        "start": {
+            "d": 18,
+            "m": 9,
+            "y": 96
+        },
+        "end": {
+            "d": 27,
+            "m": 1,
+            "y": 98
+        }
+    },
+    {
+        "nameLatin": "Trajan",
+        "url": "/wiki/Trajan",
+        "land": [
+            "Roman Empire"
+        ],
+        "start": {
+            "d": 28,
+            "m": 1,
+            "y": 98
+        },
+        "end": {
+            "d": 7,
+            "m": 8,
+            "y": 117
+        }
+    },
+    {
+        "nameLatin": "Hadrian",
+        "url": "/wiki/Hadrian",
+        "land": [
+            "Roman Empire"
+        ],
+        "start": {
+            "d": 11,
+            "m": 8,
+            "y": 117
+        },
+        "end": {
+            "d": 10,
+            "m": 7,
+            "y": 138
+        }
+    },
+    {
+        "nameLatin": "Antoninus Pius",
+        "url": "/wiki/Antoninus_Pius",
+        "land": [
+            "Roman Empire"
+        ],
+        "start": {
+            "d": 10,
+            "m": 7,
+            "y": 138
+        },
+        "end": {
+            "d": 7,
+            "m": 3,
+            "y": 161
+        }
+    },
+    {
+        "nameLatin": "Lucius Verus",
+        "url": "/wiki/Lucius_Verus",
+        "land": [
+            "Roman Empire"
+        ],
+        "start": {
+            "d": 7,
+            "m": 3,
+            "y": 161
+        },
+        "end": {
+            "d": 1,
+            "m": 3,
+            "y": 169
+        }
+    },
+    {
+        "nameLatin": "Marcus Aurelius",
+        "url": "/wiki/Marcus_Aurelius",
+        "land": [
+            "Roman Empire"
+        ],
+        "start": {
+            "d": 7,
+            "m": 3,
+            "y": 161
+        },
+        "end": {
+            "d": 17,
+            "m": 3,
+            "y": 180
+        }
+    },
+    {
+        "nameLatin": "Commodus",
+        "url": "/wiki/Commodus",
+        "land": [
+            "Roman Empire"
+        ],
+        "start": {
+            "d": 17,
+            "m": 3,
+            "y": 180
+        },
+        "end": {
+            "d": 31,
+            "m": 12,
+            "y": 192
+        }
+    },
+    {
         "nameLatin": "Pertinax",
         "url": "/wiki/Pertinax",
         "land": [

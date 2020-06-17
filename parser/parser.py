@@ -52,8 +52,8 @@ def parseFile(filename, dateFormats):
   with open(filename, encoding="utf8") as data_file:
       s = data_file.readline()
       s = re.sub(r'<a .*?href="(.*?)".*?>(.*?)</a>', r'\2 {\1}', s)
-      s = re.sub(r'?', '', s)
-      s = re.sub(r'–', '-', s)
+      #s = re.sub(r'?', '', s)
+      #s = re.sub(r'–', '-', s)
       tables = re.findall( r'<table.*?</table>', s)
 
       for htmlTable in tables:
@@ -66,7 +66,7 @@ def parseFile(filename, dateFormats):
             tleader = dict(zip(headers, values))
             leader = dict()
             name = tleader['Name']
-            match = re.search(r'^^([\w\s]+)\s{(.*)}', name)
+            match = re.search(r'^([\w\s]+)\s{(.*)}', name)
             leader['nameLatin'] = match.group(1)
             leader['url'] = match.group(2)
             leader['land'] = ['']
