@@ -1,0 +1,1413 @@
+[
+    {
+      "nameLatin":"Rurik I",
+      "url":"/wiki/Rurik",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":862
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":879
+      }
+    },
+    {
+      "nameLatin":"Oleg",
+      "url":"/wiki/Oleg_of_Novgorod",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":879
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":912
+      }
+    },
+    {
+      "nameLatin":"Igor I",
+      "url":"/wiki/Igor_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":912
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":945
+      }
+    },
+    {
+      "nameLatin":"Olga of Kiev",
+      "url":"/wiki/Olga_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":945
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":962
+      }
+    },
+    {
+      "nameLatin":"Sviatoslav I",
+      "url":"/wiki/Sviatoslav_I_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":962
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":972
+      }
+    },
+    {
+      "nameLatin":"Yaropolk I",
+      "url":"/wiki/Yaropolk_I_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":972
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":980
+      }
+    },
+    {
+      "nameLatin":"Vladimir I",
+      "url":"/wiki/Vladimir_the_Great",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":980
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1015
+      }
+    },
+    {
+      "nameLatin":"Sviatopolk I",
+      "url":"/wiki/Sviatopolk_I_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1015
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1019
+      }
+    },
+    {
+      "nameLatin":"Yaroslav I",
+      "url":"/wiki/Yaroslav_the_Wise",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1019
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1054
+      }
+    },
+    {
+      "nameLatin":"Iziaslav I",
+      "url":"/wiki/Iziaslav_I_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1054
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1078
+      }
+    },
+    {
+      "nameLatin":"Vseslav I",
+      "url":"/wiki/Vseslav_of_Polotsk",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1068
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1069
+      }
+    },
+    {
+      "nameLatin":"Sviatoslav II",
+      "url":"/wiki/Sviatoslav_II_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1073
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1076
+      }
+    },
+    {
+      "nameLatin":"Vsevolod I",
+      "url":"/wiki/Vsevolod_I_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1078
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1093
+      }
+    },
+    {
+      "nameLatin":"Yaropolk (III) Izyaslavich",
+      "url":"/wiki/Yaropolk_Izyaslavich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1078
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1087
+      }
+    },
+    {
+      "nameLatin":"Sviatopolk II",
+      "url":"/wiki/Sviatopolk_II_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1093
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1113
+      }
+    },
+    {
+      "nameLatin":"David I Sviatoslavich",
+      "url":"/wiki/Davyd_Sviatoslavich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1097
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1123
+      }
+    },
+    {
+      "nameLatin":"David I Igorevich",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1097
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1099
+      }
+    },
+    {
+      "nameLatin":"Mstislav Sviatopolkovich",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1099
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1099
+      }
+    },
+    {
+      "nameLatin":"Yaroslav Sviatopolkovich",
+      "url":"/wiki/Iaroslav_Sviatopolkovich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1099
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1118
+      }
+    },
+    {
+      "nameLatin":"Sviatoslav III Vladimirovich",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1113
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1114
+      }
+    },
+    {
+      "nameLatin":"Roman Vladimirovich",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1118
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1119
+      }
+    },
+    {
+      "nameLatin":"Constantine",
+      "url":"/wiki/Constantine_of_Murom",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1123
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1127
+      }
+    },
+    {
+      "nameLatin":"Mstislav I",
+      "url":"/wiki/Mstislav_I_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1125
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1132
+      }
+    },
+    {
+      "nameLatin":"Vsevolod II",
+      "url":"/wiki/Vsevolod_of_Pskov",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1132
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1132
+      }
+    },
+    {
+      "nameLatin":"Yuri I",
+      "url":"/wiki/Yuri_Dolgorukiy",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":11321134
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1135
+      }
+    },
+    {
+      "nameLatin":"Iziaslav II",
+      "url":"/wiki/Iziaslav_II_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1132
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1133
+      }
+    },
+    {
+      "nameLatin":"Iziaslav II",
+      "url":"/wiki/Iziaslav_II_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1135
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1141
+      }
+    },
+    {
+      "nameLatin":"Sviatoslav IV",
+      "url":"/wiki/Sviatoslav_III_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1141
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1146
+      }
+    },
+    {
+      "nameLatin":"Vladimir II Davidovich",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1139
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1151
+      }
+    },
+    {
+      "nameLatin":"Vladimir Volodarovich",
+      "url":"/wiki/Volodymyrko_Volodarovych",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1141
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1153
+      }
+    },
+    {
+      "nameLatin":"Igor II",
+      "url":"/wiki/Igor_II_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1146
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1146
+      }
+    },
+    {
+      "nameLatin":"Mstislav II",
+      "url":"/wiki/Mstislav_II_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1146
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1154
+      }
+    },
+    {
+      "nameLatin":"Yuri I",
+      "url":"/wiki/Yuri_Dolgorukiy",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1149
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1157
+      }
+    },
+    {
+      "nameLatin":"Rostislav",
+      "url":"/wiki/Rostislav_Yuryevich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1149
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1151
+      }
+    },
+    {
+      "nameLatin":"Sviatopolk II",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1151
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1154
+      }
+    },
+    {
+      "nameLatin":"Rostislav I",
+      "url":"/wiki/Rostislav_I_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1154
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1162
+      }
+    },
+    {
+      "nameLatin":"Yaroslav Vladimirovich",
+      "url":"/wiki/Yaroslav_Osmomysl",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1153
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1187
+      }
+    },
+    {
+      "nameLatin":"Vladimir III Mstislavich",
+      "url":"/wiki/Vladimir_III_Mstislavich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1154
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1157
+      }
+    },
+    {
+      "nameLatin":"Sviatoslav III Olgovich",
+      "url":"/wiki/Sviatoslav_Olgovich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1154
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1164
+      }
+    },
+    {
+      "nameLatin":"Vladimir III",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1169
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1187
+      }
+    },
+    {
+      "nameLatin":"Sviatoslav Mstislavich",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1170
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1173
+      }
+    },
+    {
+      "nameLatin":"Roman II",
+      "url":"/wiki/Roman_the_Great",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1173
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1188
+      }
+    },
+    {
+      "nameLatin":"Vsevolod Mstislavich",
+      "url":"/wiki/Vsevolod_Mstislavich_of_Volhynia",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1188
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1188
+      }
+    },
+    {
+      "nameLatin":"Vladimir III Mstislavich",
+      "url":"/wiki/Vladimir_III_Mstislavich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1171
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1171
+      }
+    },
+    {
+      "nameLatin":"Michael I",
+      "url":"/wiki/Mikhail_of_Vladimir",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1171
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1171
+      }
+    },
+    {
+      "nameLatin":"Roman I",
+      "url":"/wiki/Roman_I_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1171
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1177
+      }
+    },
+    {
+      "nameLatin":"Vsevolod III",
+      "url":"/wiki/Vsevolod_the_Big_Nest",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1173
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1173
+      }
+    },
+    {
+      "nameLatin":"Rurik II",
+      "url":"/wiki/Rurik_Rostislavich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1173
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1210
+      }
+    },
+    {
+      "nameLatin":"Yaroslav II",
+      "url":"/wiki/Yaroslav_II_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1174
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1180
+      }
+    },
+    {
+      "nameLatin":"Yaroslav II Vsevolodovich",
+      "url":"/wiki/Yaroslav_II_Vsevolodovich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1180
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1198
+      }
+    },
+    {
+      "nameLatin":"Yaroslav II",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1187
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1199
+      }
+    },
+    {
+      "nameLatin":"Oleg Yaroslavich",
+      "url":"/wiki/Oleg_Yaroslavich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1187
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1187
+      }
+    },
+    {
+      "nameLatin":"Vladimir Yaroslavich",
+      "url":"/wiki/Vladimir_II_Yaroslavich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1187
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1199
+      }
+    },
+    {
+      "nameLatin":"Igor II",
+      "url":"/wiki/Igor_Svyatoslavich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1198
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1201
+      }
+    },
+    {
+      "nameLatin":"Yaroslav III",
+      "url":"/wiki/Yaroslav_II_of_Vladimir",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1199
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1206
+      }
+    },
+    {
+      "nameLatin":"Oleg II Sviatoslavich",
+      "url":"/wiki/Oleg_III_Svyatoslavich_(Prince_of_Chernigov)",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1202
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1204
+      }
+    },
+    {
+      "nameLatin":"Igor III",
+      "url":"/wiki/Ingvar_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1202
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1214
+      }
+    },
+    {
+      "nameLatin":"Rostislav II",
+      "url":"/wiki/Rostislav_II_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1204
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1205
+      }
+    },
+    {
+      "nameLatin":"Michael II",
+      "url":"/wiki/Michael_of_Chernigov",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1206
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1206
+      }
+    },
+    {
+      "nameLatin":"Vladimir IV",
+      "url":"/wiki/Vladimir_IV_Rurikovich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1206
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1213
+      }
+    },
+    {
+      "nameLatin":"Rurik II",
+      "url":"/wiki/Rurik_Rostislavich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1212
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1215
+      }
+    },
+    {
+      "nameLatin":"Vladimir V Vsevolodovich",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1213
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1215
+      }
+    },
+    {
+      "nameLatin":"Mstislav III",
+      "url":"/wiki/Mstislav_III_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1214
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1223
+      }
+    },
+    {
+      "nameLatin":"Gleb I",
+      "url":"/wiki/Gleb_Svyatoslavich_(Prince_of_Chernigov)",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1215
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1217
+      }
+    },
+    {
+      "nameLatin":"Mstislav I",
+      "url":"/wiki/Mstislav_II_Svyatoslavich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1217
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1223
+      }
+    },
+    {
+      "nameLatin":"Vladimir IV",
+      "url":"/wiki/Vladimir_IV_Rurikovich",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1223
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1233
+      }
+    },
+    {
+      "nameLatin":"Michael II",
+      "url":"/wiki/Michael_of_Chernigov",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1223
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1234
+      }
+    },
+    {
+      "nameLatin":"Iziaslav IV",
+      "url":"/wiki/Iziaslav_IV_of_Kiev",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1233
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1236
+      }
+    },
+    {
+      "nameLatin":"Mstislav II",
+      "url":"/wiki/Mstislav_III_Glebovich_(Prince_of_Chernigov)",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1234
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1239
+      }
+    },
+    {
+      "nameLatin":"Yaroslav III",
+      "url":"/wiki/Yaroslav_II_of_Vladimir",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1236
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1246
+      }
+    },
+    {
+      "nameLatin":"Andrew I Mstislavich",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1245
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1246
+      }
+    },
+    {
+      "nameLatin":"Andrew II Vsevolodovich",
+      "url":"\"\"",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1246
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1263
+      }
+    },
+    {
+      "nameLatin":"Alexander Nevsky",
+      "url":"/wiki/Alexander_Nevsky",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1246
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1263
+      }
+    },
+    {
+      "nameLatin":"Yaroslav IV",
+      "url":"/wiki/Yaroslav_of_Tver",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1263
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1272
+      }
+    },
+    {
+      "nameLatin":"Leo I",
+      "url":"/wiki/Leo_I_of_Galicia",
+      "land":[
+        "Kievan Rus"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1272
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1301
+      }
+    },
+    {
+      "nameLatin":"Roman II the Great",
+      "url":"/wiki/Roman_the_Great",
+      "land":[
+        "Galicia-Volhynia"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1199
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1205
+      }
+    },
+    {
+      "nameLatin":"Coloman of Galicia - Lodomeria",
+      "url":"/wiki/Coloman_of_Galicia - Lodomeria",
+      "land":[
+        "Galicia-Volhynia"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1214
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1241
+      }
+    },
+    {
+      "nameLatin":"Daniel I of Galicia",
+      "url":"/wiki/Daniel_of_Galicia",
+      "land":[
+        "Galicia-Volhynia"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1205
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1264
+      }
+    },
+    {
+      "nameLatin":"Lev I",
+      "url":"/wiki/Lev_I_of_Galicia",
+      "land":[
+        "Galicia-Volhynia"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1293
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1301
+      }
+    },
+    {
+      "nameLatin":"Yuri I",
+      "url":"/wiki/Yuri_I_of_Galicia",
+      "land":[
+        "Galicia-Volhynia"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1301
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1308
+      }
+    },
+    {
+      "nameLatin":"Andrew II",
+      "url":"/wiki/Andrew_of_Galicia",
+      "land":[
+        "Galicia-Volhynia"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1308
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1323
+      }
+    },
+    {
+      "nameLatin":"Yuri II - Boleslaw",
+      "url":"/wiki/Boleslaw - Yuri_II_of_Galicia",
+      "land":[
+        "Galicia-Volhynia"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1325
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1340
+      }
+    },
+    {
+      "nameLatin":"Liubartas",
+      "url":"/wiki/Liubartas",
+      "land":[
+        "Galicia-Volhynia"
+      ],
+      "start":{
+        "d":32167,
+        "m":32167,
+        "y":1340
+      },
+      "end":{
+        "d":32167,
+        "m":32167,
+        "y":1384
+      }
+    }
+  ]

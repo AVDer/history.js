@@ -20,7 +20,7 @@ class DateRangeFormat:
     return self.match != None
 
   def getDateItem(self, dateItem):
-    if self.datePositions[dateItem] == 42: return 1
+    if self.datePositions[dateItem] == 42: return 32167
     if dateItem == 'sd' or dateItem == 'ed':
       return int(self.match.group(self.datePositions[dateItem]))
     if dateItem == 'sm' or dateItem == 'em':
@@ -62,6 +62,7 @@ def parseFile(filename, dateFormats):
         headers = [col.text for col in next(rows)]
         if len(headers) < 2: continue
         for row in rows:
+            headers = [s.strip() for s in headers]
             values = [col.text for col in row]
             tleader = dict(zip(headers, values))
             leader = dict()
@@ -70,7 +71,10 @@ def parseFile(filename, dateFormats):
             leader['nameLatin'] = match.group(1)
             leader['url'] = match.group(2)
             leader['land'] = ['']
-            parsedDate = parseDateRange(tleader['Reign'], dateFormats)
+            if ('Ruled From' in headers):
+              parsedDate = parseDateRange(tleader['Ruled From'] + ' - ' + tleader['Ruled Until'], dateFormats)
+            else:
+              parsedDate = parseDateRange(tleader['Reign'], dateFormats)
             leader['start'] = parsedDate[0]
             leader['end'] = parsedDate[1]
             print(leader)
