@@ -28,6 +28,7 @@ type Query {
   hello: String,
   leaders: [Leader!]!,
   leader(id: ID!): Leader,
+  leadersRange(start: Int!, end: Int!): [Leader!]!,
   lands(start: Int!, end: Int!): [String!]!
 }
 
